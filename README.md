@@ -71,7 +71,7 @@ node app.js
 ### Configuration:
 1. Set up the necessary circuits to connect the NodeMCU8266 module(s), sensors, and actuators. Document the pins used for each component.
 2. Open the 5 `.ino` files from the repository and adjust the pin configurations in each code according to your setup.
-3. In each .ino file, specify the SSID and password of the Wi-Fi network that the modules will connect to (it should be the same network as the one your computer hosting the API is connected to).
+3. In each `.ino` file, specify the SSID and password of the Wi-Fi network that the modules will connect to (it should be the same network as the one your computer hosting the API is connected to).
 4. Obtain the IPv4 address of your computer by running the following command in the terminal:
 ```bash
 ipconfig
