@@ -33,7 +33,7 @@ With this implementation, the project aims to expand transportation options for 
 ```bash
 git clone https://github.com/HumbertoBM2/IoT-Medicine-Container-Optimization
 ```
-2. Once the repository is cloned, navigate to the created directory using your terminal. Please note that the `node_modules` directory will be empty and will be populated automatically once the project is initialized with Node.js and the necessary dependencies are added.
+2. Once the repository is cloned, navigate to the created directory using your terminal and go inside `API_codes`. Please note that the `node_modules` directory will be empty and will be populated automatically once the project is initialized with Node.js and the necessary dependencies are added.
 
 3. Initialize the project with the following command:
 ```bash
