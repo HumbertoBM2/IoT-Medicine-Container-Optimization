@@ -10,7 +10,7 @@ function getConnection(){
   const connection = mysql.createConnection({
     host: "host", // Replace with your host name, normally localhost
     user: "root",
-    password: "password", // Replace with your password
+    password: "password", // Replace with your MYSQL password
     database: "Unidad_de_Monitoreo" // Use the created database
   });
 
