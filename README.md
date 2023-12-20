@@ -1,5 +1,16 @@
+<div align="center">
+
 # IoT Medicine Container Optimization
- Open-source IoT solution for pharmaceutical supply chains. Ensures safe medicine transport using NodeMCU8266 modules, an API, and real-time monitoring.
+
+##### Open-source IoT solution for pharmaceutical supply chains. Ensures safe medicine transport using NodeMCU8266 modules, an API, and real-time monitoring.
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+</div>
+
 
 ## Overview
 This project aims to implement IoT to condition a container used for transporting medicines. It seeks to incorporate 5 sensors and 5 actuators that will monitor the container in real-time. These sensors and actuators are controlled using Node MCU 8266 modules. The monitoring data collected is sent to a MySQL-hosted database through an API developed with Node.js.
