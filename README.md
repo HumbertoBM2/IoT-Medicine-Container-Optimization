@@ -15,6 +15,8 @@
 ## Overview
 This project aims to implement IoT to condition a container used for transporting medicines. It seeks to incorporate 5 sensors and 5 actuators that will monitor the container in real-time. These sensors and actuators are controlled using Node MCU 8266 modules. The monitoring data collected is sent to a MySQL-hosted database through an API developed with Node.js.
 
+The data stored in the SQL database is then visualized in a Power BI dashboard. This dashboard integrates AI-driven features for consulting statistical insights, enabling a deeper understanding of the monitored data and enhancing decision-making processes.
+
 ### Components Used
 
 #### Sensors:
