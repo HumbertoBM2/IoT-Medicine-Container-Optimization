@@ -105,6 +105,10 @@ You are now ready to set up and use the NodeMCU8266 modules in conjunction with 
 ## Gallery 
 
 
-
-
-
+![postman1](media/postman1.png)
+![postman2](media/postman2.png)
+![postman3](media/postman3.png)
+![powerbi1](media/powerbiss1.png)
+![powerbi2](media/powerbiss2.png)
+![prototype1](media/prototype1.png)
+![prototype2](media/prototype2.png)
