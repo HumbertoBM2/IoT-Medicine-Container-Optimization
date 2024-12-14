@@ -97,3 +97,14 @@ ipconfig
 9. Confirm that the data is being loaded into the database by using one of the GET endpoints.
 
 You are now ready to set up and use the NodeMCU8266 modules in conjunction with the IoT solution.
+
+
+
+
+
+## Gallery 
+
+
+
+
+
